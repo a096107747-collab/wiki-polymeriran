@@ -1,0 +1,13 @@
+{
+  "name": "لیست قیمت افزودنی‌های پتروشیمی",
+  "short_name": "قیمت افزودنی",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#004d40",
+  "theme_color": "#004d40",
+  "description": "دسترسی سریع به لیست قیمت افزودنی‌های پتروشیمی",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
